@@ -8,3 +8,6 @@
 	path = submodules/CACHE
 	url = git@github.com:IObundle/iob-cache.git
 
+[submodule "submodules/TIMER"]
+	path = submodules/TIMER
+	url = https://github.com/bocherteric/iob-timer
